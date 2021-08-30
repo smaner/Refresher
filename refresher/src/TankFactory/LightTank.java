@@ -5,7 +5,6 @@ public class LightTank extends Tank{
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
-        return null;
+        return "Light Tank";
     }
 }

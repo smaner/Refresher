@@ -7,8 +7,7 @@ public class SelfPropelledGun extends Tank{
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
-        return null;
+        return "SPG Tank";
     }
 
 }
